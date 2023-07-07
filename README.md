@@ -1,7 +1,7 @@
 # Pneumonia-Classification-in-Chest-X-Ray-Images
 Classification of Pneumonia vs Normal in the Chest X-Ray Images (Pneumonia) dataset from Kaggle
 
-#**Dataset**
+# **Dataset**
 The Chest X-Ray Images (Pneumonia) dataset from Kaggle is a collection of 5,863 chest X-ray images in JPEG format organized into three folders (train, test, val) and two categories (Pneumonia/Normal).
 The X-rays were selected from pediatric patients aged one to five years old who received chest X-rays as part of their routine clinical care at the Guangzhou Women and Children's Medical Center in Guangzhou. The images were screened for quality control, and diagnoses were graded by two expert physicians and checked by a third expert to account for any grading errors.
 The dataset is designed to be used for developing AI systems to assist in the diagnosis of pneumonia, with the aim of improving patient outcomes.
